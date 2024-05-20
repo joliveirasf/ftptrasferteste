@@ -1,0 +1,14 @@
+185.27.134.149/home/vol1_1/infinityfree.com/if0_36457430
+
+ftp
+if0_36457430
+
+senha
+bykwors74
+
+
+host
+ftpupload.net
+
+
+https://demo.filestash.app/login
